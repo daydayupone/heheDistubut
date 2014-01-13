@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  REMenuExample
+
+  Created by jiawei on 14-1-11.
+  Copyright (c) 2014年 Roman Efimov. All rights reserved.
+*/
+"bqsz" = "Open emoji Keyboard：Settings > General > Keyboard > Keyboards > Add New Keyboard > emoji Keyboard";
+"cjmm" = "Create a password";
+"qrmm" = "Confirm password";
+"srmm" = "Enter the password";
+"mmcw" = "Password Error";
+"dl" = "Login";
+"xrj" = "Diary";
+"xrjx" = "One today is worth two tomorrows.";
+"lsjl" = "History";
+"lsjlx" = "Pain past is pleasure.";
+"sz" = "Setting";
+"kg" = "OFF / ON";
+"xmm" = "New Password";
+"qrxmm" = "Confirm New Password";
+"bc" = "Save";
+"mmbnwk" = "Password can not be empty";
+"lcmmbyz" = "Two passwords do not match";
+"bccg" = "Successfully saved";
+"qdscrj" = "You sure to delete the diary?";
+"qd" = "YES";
+"qx" = "NO";
+"qxfs" = "Cancel Send";
+"fscg" = "Sent successfully";
+"dcrj" = "Export log to the mailbox?";
+"wdxc" = "My Album";
+"wdxcx" = "Pleasant hours fly past.";

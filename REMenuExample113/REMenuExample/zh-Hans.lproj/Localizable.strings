@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  REMenuExample
+
+  Created by jiawei on 14-1-11.
+  Copyright (c) 2014年 Roman Efimov. All rights reserved.
+*/
+"bqsz" = "开启表情键盘：设置 > 通用 > 键盘 > 键盘 > 添加新键盘 > 添加表情符号";
+"cjmm" = "创建密码";
+"qrmm" = "确认密码";
+"srmm" = "输入密码";
+"mmcw" = "密码错误";
+"dl" = "登录";
+"xrj" = "写日记";
+"xrjx" = "One today is worth two tomorrows.";
+"lsjl" = "历史纪录";
+"lsjlx" = "Pain past is pleasure.";
+"sz" = "设置";
+"kg" = "OFF / ON";
+"xmm" = "新密码";
+"qrxmm" = "确认新密码";
+"bc" = "保存";
+"mmbnwk" = "密码不能为空";
+"lcmmbyz" = "两次密码不一致";
+"bccg" = "保存成功";
+"qdscrj" = "确定删除日记?";
+"qd" = "确定";
+"qx" = "取消";
+"qxfs" = "取消发送";
+"fscg" = "发送成功";
+"dcrj" = "导出日记到邮箱？";
+"wdxc" = "我的相册";
+"wdxcx" = "Pleasant hours fly past.";

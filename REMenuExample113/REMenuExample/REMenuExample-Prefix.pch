@@ -1,0 +1,67 @@
+//
+// Prefix header for all source files of the 'REMenuExample' target in the 'REMenuExample' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#define kGreenColor [[UIColor alloc]initWithRed:139.0/255.0 green:192.0/255.0 blue:29.0/255.0 alpha:1]
+
+#define kBlueColor [[UIColor alloc]initWithRed:24.0/255.0 green:145.0/255.0 blue:146.0/255.0 alpha:1]
+
+//字典的对应的key
+#define dicContent @"content"
+#define dicEmotion @"emotion"
+#define dicImage @"image"
+#define dicTime @"time"
+#define dicWeather @"weather"
+
+//Document路径，存放text的文件位置
+#define DOCUMENT [(NSSearchPathForDirectoriesInDomains(NSDocumentDirectory,NSUserDomainMask,YES)) lastObject]
+
+//Document路径
+#define kDocumentPath [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0]
+
+//日记文件名
+#define kDiaryName @"MyDiary.plist"
+
+//admob id
+#define MY_BANNER_UNIT_ID @"a152d24e6f4f6de"
+
+
+
+//用户信息
+#define kUserInfomation @"UserIfo.plist"
+
+#define kScreenWidth [[UIScreen mainScreen] bounds].size.width
+#define kScreenHeight [[UIScreen mainScreen] bounds].size.height
+
+
+#define ios7 ([[[UIDevice currentDevice] systemVersion] floatValue] >= 7)
+#define NAVBAR_HEIGHT 44.0f
+#define TABBAR_HEIGHT 49.0f
+#define STATUS_HEIGHT 20.0f
+
+#define TOP_VIEW_HEIGHT 33.0f
+#define TOP_VIEW_WIDTH 48.0f
+
+#define ARRSIZE(a)      (sizeof(a) / sizeof(a[0]))
+
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #define DEFAULT_thumbImageWidth 260.0f
+    #define DEFAULT_thumbImageHeight 347.0f
+#endif
+
+
+/*在项目的prefix.pch文件里加入下面一段代码，加入后，NSLog就只在Debug下有输出，Release下不输出了。*/
+#ifndef __OPTIMIZE__
+#define NSLog(...) NSLog(__VA_ARGS__)
+#else
+#define NSLog(...) {}
+#endif

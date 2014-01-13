@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  REMenuExample
+
+  Created by jiawei on 14-1-11.
+  Copyright (c) 2014年 Roman Efimov. All rights reserved.
+*/
+"bqsz" = "Offene Emoji Tastatur：Einstellungen > Allgemein > Tastatur > Tastaturen > Tastatur hinzufügen > Deutsch(Schweiz)";
+"cjmm" = "erstellen Sie ein Passwort";
+"qrmm" = "Passwort bestätigen";
+"srmm" = "Geben Sie das Passwort";
+"mmcw" = "Passwortfehler";
+"dl" = "Anmelden";
+"xrj" = "Tagebuch";
+"xrjx" = "One today is worth two tomorrows.";
+"lsjl" = "Geschichte";
+"lsjlx" = "Pain past is pleasure.";
+"sz" = "Richten";
+"kg" = "OFF / ON";
+"xmm" = "Neues Passwort";
+"qrxmm" = "Neues Passwort bestätigen";
+"bc" = "sparen";
+"mmbnwk" = "Kennwort darf nicht leer sein";
+"lcmmbyz" = "Zwei Passwörter stimmen nicht überein";
+"bccg" = "Erfolgreich gespeichert";
+"qdscrj" = "OK, um das Tagebuch zu löschen?";
+"qd" = "YES";
+"qx" = "NO";
+"qxfs" = "Abbrechen Senden";
+"fscg" = "erfolgreich gesendet";
+"dcrj" = "Exportieren Sie die Anmeldung am Postfach？";
+"wdxc" = "My Album";
+"wdxcx" = "Pleasant hours fly past.";

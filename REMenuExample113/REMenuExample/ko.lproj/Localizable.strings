@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  REMenuExample
+
+  Created by jiawei on 14-1-11.
+  Copyright (c) 2014年 Roman Efimov. All rights reserved.
+*/
+"bqsz" = "오픈 이모티콘 키보드：설정 > 일반 > 키보드 > 키보드 > 새로운 키보드 추가 > 添이모티콘 키보드";
+"cjmm" = "암호를 만들";
+"qrmm" = "비밀번호 확인";
+"srmm" = "암호를 입력";
+"mmcw" = "암호 오류";
+"dl" = "로그인";
+"xrj" = "일기";
+"xrjx" = "One today is worth two tomorrows.";
+"lsjl" = "역사";
+"lsjlx" = "Pain past is pleasure.";
+"sz" = "설치";
+"kg" = "OFF / ON";
+"xmm" = "새 암호";
+"qrxmm" = "새로운 암호 확인";
+"bc" = "저장";
+"mmbnwk" = "암호는 비워 둘 수 없습니다";
+"lcmmbyz" = "두 암호가 일치하지 않습니다";
+"bccg" = "성공적으로 저장";
+"qdscrj" = "일기를 삭제 확인?";
+"qd" = "YES";
+"qx" = "NO";
+"qxfs" = "보내기 취소";
+"fscg" = "성공적으로 전송";
+"dcrj" = "사서함에 수출 로그?";
+"wdxc" = "나의 앨범";
+"wdxcx" = "Pleasant hours fly past.";

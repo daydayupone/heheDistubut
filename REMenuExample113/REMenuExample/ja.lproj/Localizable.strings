@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  REMenuExample
+
+  Created by jiawei on 14-1-11.
+  Copyright (c) 2014年 Roman Efimov. All rights reserved.
+*/
+"bqsz" = "オープン·絵文字キーボード：設定 > 一般 > キーボード > キーボード > 新しいキーボードを追加 > 絵文字";
+"cjmm" = "パスワードを作成します";
+"qrmm" = "パスワードを確認";
+"srmm" = "パスワードを入力する";
+"mmcw" = "パスワードエラー";
+"dl" = "ログイン";
+"xrj" = "日記の";
+"xrjx" = "One today is worth two tomorrows.";
+"lsjl" = "歴史";
+"lsjlx" = "Pain past is pleasure.";
+"sz" = "設定し";
+"kg" = "OFF / ON";
+"xmm" = "新しいパスワード";
+"qrxmm" = "新しいパスワードを確認";
+"bc" = "保存";
+"mmbnwk" = "パスワードは空白にすることはできません";
+"lcmmbyz" = "2つのパスワードが一致しません";
+"bccg" = "正常に保存";
+"qdscrj" = "日記の削除してよろしいですか？";
+"qd" = "YES";
+"qx" = "NO";
+"qxfs" = "送信キャンセル";
+"fscg" = "正常に送信され";
+"dcrj" = "メールボックスへのエクスポートログ？";
+"wdxc" = "マイアルバム";
+"wdxcx" = "Pleasant hours fly past.";
